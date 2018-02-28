@@ -1,0 +1,11 @@
+img#nav-logo{
+	display: block; /* or inline-block */ 
+	height: auto;
+    max-width: 1.2em;
+    width: auto;
+}
+
+h1.post-title{
+	text-align: center;
+	font-weight: normal;
+}
